@@ -6,6 +6,7 @@ import math
 import base64
 from folium import IFrame
 
+# Kilroy Was Here
 
 class mapper:
 
